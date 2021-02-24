@@ -1,0 +1,4 @@
+employee1: elonmac432432 - Elon Mac         - Database Administrator
+employee2: christoking34 - Christopher King - Data Quality Developer
+employee3: dinacdum12    - Dina Carruthers  - Intern, Technical Support
+employee4: rosemsan2000  - Rose Sanchez     - Chief Technology Officer
